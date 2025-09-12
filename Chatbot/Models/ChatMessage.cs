@@ -1,1 +1,0 @@
-// TODO: Define chat message model
