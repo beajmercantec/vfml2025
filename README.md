@@ -34,16 +34,10 @@ Chatbotten skal bygges trinvist gennem kurset:
 3. Kør:
    ```bash
    dotnet build
-   dotnet run --project Chatbot
+
    ```
 4. Start BlazorUI med:
    ```bash
    dotnet run --project BlazorUI
    ```
 5. Åbn browseren på `https://localhost:5001` (eller den port, der står i terminalen).
-## Opgave til Dag 1
-
-## Opgave til Dag 2
-- Tegn jeres arkitekturdiagram (fx i draw.io, Lucidchart, eller som ASCII i README).  
-- Placér diagrammet i repo’et under `/Docs/ArchitectureDiagram.png`.  
-- Beskriv i README hvilken type chatbot I bygger (Hotel, Support, Uddannelse, Butik).
